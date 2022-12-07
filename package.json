@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/daniyalnagori/aws-cicd#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "pm2": "^4.4.0"
   }
 }
